@@ -1,0 +1,14 @@
+name = "mcomp-tech/handles"
+version = "0.0.0"
+license = "None"
+description = "Aiken contracts for 'mcomp-tech/handles'"
+
+[repository]
+user = "mcomp-tech"
+project = "handles"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "main"
+source = "github"
